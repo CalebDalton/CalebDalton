@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalebDalton
-I'm a web developer who is just here to learn some Unity and have fun with it. (Frankly, I don't find web dev fun anymore)
+I'm a web developer who is just here to learn some Unity and have fun with it.
 
 <!---
 CalebDalton/CalebDalton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
